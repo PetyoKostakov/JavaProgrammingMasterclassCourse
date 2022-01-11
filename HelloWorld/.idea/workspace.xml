@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ba5a76b-e1cf-4ba3-b126-81ca99fdf16e" name="Default Changelist" comment="" />
+    <list default="true" id="1ba5a76b-e1cf-4ba3-b126-81ca99fdf16e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloatAndDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitiveTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PrimitiveTypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FloatAndDouble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -29,19 +52,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Hello.java" />
+        <option value="$PROJECT_DIR$/src/PrimitiveTypes.java" />
+        <option value="$PROJECT_DIR$/src/FloatAndDouble.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1954" />
     <option name="y" value="40" />
     <option name="width" value="1582" />
     <option name="height" value="854" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -71,7 +100,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641551835848" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641820155019" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -87,9 +116,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.FloatAndDouble">
+    <configuration name="FloatAndDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FloatAndDouble" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimitiveTypes" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,8 +143,15 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Application.Hello" />
+      <item itemvalue="Application.PrimitiveTypes" />
+      <item itemvalue="Application.FloatAndDouble" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FloatAndDouble" />
+        <item itemvalue="Application.PrimitiveTypes" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
@@ -116,15 +166,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641549903885</updated>
-      <workItem from="1641549908002" duration="1761000" />
+      <workItem from="1641549908002" duration="4690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1761000" />
+    <option name="totallyTimeSpent" value="4690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1954" y="40" width="1582" height="854" extended-state="0" />
+    <frame x="1954" y="40" width="1582" height="854" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -167,7 +217,21 @@
     <entry file="file://$PROJECT_DIR$/src/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrimitiveTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FloatAndDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
         </state>
       </provider>
     </entry>
