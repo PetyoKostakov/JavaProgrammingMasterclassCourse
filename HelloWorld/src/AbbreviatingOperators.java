@@ -12,7 +12,6 @@ public class AbbreviatingOperators {
 
         result += 2; // 0 + 2 = 2
         System.out.println(result);
-
     }
 
 }
