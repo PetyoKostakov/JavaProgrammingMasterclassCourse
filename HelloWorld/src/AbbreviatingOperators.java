@@ -1,4 +1,5 @@
 public class AbbreviatingOperators {
+
     public static void main(String[] args) {
         // % - remainder operator
         int result = 0;
@@ -13,4 +14,5 @@ public class AbbreviatingOperators {
         System.out.println(result);
 
     }
+
 }
